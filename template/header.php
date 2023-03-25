@@ -16,13 +16,10 @@
         $currentPage = 'Portofolio';
     }
 
-    if ($currentPage == 'gallery') {
-        $currentPage = 'Gallery';
+    if ($currentPage == 'about') {
+        $currentPage = 'About';
     }
 
-    if ($currentPage == 'contact') {
-        $currentPage = 'Contact';
-    }
     ?>
 
     <title><?php echo $currentPage . '' . $websiteName ?></title>
@@ -64,10 +61,7 @@
                         <a class="nav-link <?php if ($currentPage == "Portofolio") { ?>active<?php } ?>" href="portofolio.php"><span>Portofolio</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?php if ($currentPage == "Gallery") { ?>active<?php } ?>" href="gallery.php"><span>Gallery</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php if ($currentPage == "Tentang") { ?>active<?php } ?>" href="contact.php"><span>Contact</span></a>
+                        <a class="nav-link <?php if ($currentPage == "About") { ?>active<?php } ?>" href="about.php"><span>About</span></a>
                     </li>
                 </ul>
             </div>

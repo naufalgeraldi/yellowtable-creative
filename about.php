@@ -2,7 +2,7 @@
 
 <div class="container">
     <div class="row">
-        <h1>This is Gallery Page</h1>
+        <h1>This is About Page</h1>
     </div>
 
     <div class="m-5">
