@@ -36,7 +36,7 @@
 
     <link href="css/style.css" rel="stylesheet">
     <script src="js/script.js"></script>
-    
+
 </head>
 
 <body>
@@ -49,7 +49,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <a href="index.php"> <img src="img/Asset 2@2x.png" alt="Logo Agensi Keren" height="60" class="logo"></a> 
+                    <a href="index.php"> <img src="img/Asset 2@2x.png" alt="Logo Agensi Keren" height="40" class="logo"></a>
                 </ul>
 
                 <ul class="navbar-nav">

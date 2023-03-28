@@ -23,11 +23,17 @@
     </div>
 </div>
 <br>
-<a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi.">
-    <button type="button" class="btn-about">
-        Get In Touch
-    </button>
-</a>
 
+<div>
+    <div>
+        <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi." style="margin-left: 560px;">
+            <button class="btn">
+                <span class="btn__inner">
+                    <span class="btn__slide"></span>
+                    <span class="btn__content">Get in Touch</span>
+                </span>
+            </button>
+        </a>
+    </div>
 
-<?php require 'template/footer.php'; ?>
+    <?php require 'template/footer.php'; ?>
