@@ -4,7 +4,7 @@
 <head>
     <?php
     $pagename = '';
-    $websiteName = ' - Website';
+    $websiteName = ' - Yellow Table';
 
     $currentPage = basename($_SERVER['SCRIPT_NAME'], '.php');
 
@@ -32,7 +32,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="img/leaves.png">
+    <link rel="icon" type="image/svg+xml" href="img/Asset 2@2x.png">
 
     <link href="css/style.css" rel="stylesheet">
     <script src="js/script.js"></script>
