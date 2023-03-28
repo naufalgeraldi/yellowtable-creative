@@ -29,7 +29,7 @@
 
 .active span {
     background: linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%),
-    linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, #9ae77b 30%, #9ae77b 100%);
+    linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 30%, #fcb212 30%, #fcb212 100%);
     background-size: 100% 50%;
     background-position: center top, center bottom;
     background-repeat: no-repeat;

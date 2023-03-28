@@ -49,8 +49,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <h3>Logo</h3>
-                    <!-- <a href="index.php"><img src="" alt="" class="logo"></a> -->
+                    <a href="index.php"> <img src="img/Asset 2@2x.png" alt="Logo Agensi Keren" height="60" class="logo"></a> 
                 </ul>
 
                 <ul class="navbar-nav">
