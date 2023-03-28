@@ -10,11 +10,11 @@
 }
 ::-webkit-scrollbar-thumb{
     border-radius: 0.25vw;
-    background-color: rgb(101, 190, 66, 0.85);
+    background-color: rgba(252, 178, 18, 1);
 }
 
 ::-webkit-scrollbar-thumb:hover{
-    background-color: rgba(154, 231, 123, 0.75);
+    background-color: rgb(252, 189, 54);
 }
 
 .bg-light {
@@ -36,37 +36,36 @@
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Helvetica','Arial', sans-serif;
     font-size: 18px;
     text-align: justify;
 }
 
 h1{
-    font-family: 'Roboto', sans-serif;
-    font-size: 45px;
+    font-family: 'Helvetica','Arial', sans-serif;
+    font-size: 93px;
     font-weight: 900;
 }
 
 h2{
-    font-family: 'Roboto', sans-serif;
-    font-size: 36px;
+    font-family: 'Helvetica','Arial', sans-serif;
+    font-size: 48px;
     font-weight: 600;
 }
 
 h3{
-    font-family: 'Roboto', sans-serif;
-    font-size: 30px;
+    font-family: 'Helvetica','Arial', sans-serif;
     font-weight: 600;
 }
 
 h4{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Helvetica','Arial', sans-serif;
     font-size: 25px;
     font-weight: 600;
 }
 
 hr {
-    color: black;
+    color: rgba(252, 178, 18, 1);
     height: 5px !important;
     width: 80px;
     opacity: 1 !important;
