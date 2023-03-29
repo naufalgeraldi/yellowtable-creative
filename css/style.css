@@ -1,15 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
 
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../fonts/Helvetica.ttf'), format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HelveticaBold';
+  src: url('../fonts/Helvetica-Bold.ttf'), format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 ::-webkit-scrollbar{
     width: 0.48vw;
 }
 
 ::-webkit-scrollbar-track{
-    border-radius: 0.75vw;
+    /* border-radius: 0.75vw; */
+    border-radius: 0;
     box-shadow: inset 0 0 0.5px rgba(0, 0, 0, 0);
 }
 ::-webkit-scrollbar-thumb{
-    border-radius: 0.25vw;
+    /* border-radius: 0.25vw; */
+    border-radius: 0;
     background-color: rgba(252, 178, 18, 1);
 }
 
@@ -36,21 +52,45 @@
 }
 
 p {
-    font-family: 'Helvetica','Arial', sans-serif;
-    font-size: 18px;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20px;
     text-align: justify;
 }
 
-h1{
-    font-family: 'Helvetica','Arial', sans-serif;
-    font-size: 93px;
-    font-weight: 900;
+.btn-txt {
+  font-family: 'HelveticaBold', sans-serif;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.service-bg {
+  background-repeat: no-repeat;
+  background-size: 70%;
+  /* height: 700px; */
+}
+
+.ylw-txt {
+    color: #fcb212;
+}
+
+.tight-line-height {
+  line-height: 93.5%;
+}
+
+.loose-line-height {
+  line-height: 187%;
+}
+
+h1 {
+  font-family: 'HelveticaBold', sans-serif;
+  font-size: 93px;
+  font-weight: bold;
 }
 
 h2{
-    font-family: 'Helvetica','Arial', sans-serif;
-    font-size: 48px;
-    font-weight: 600;
+    font-family: 'HelveticaBold', sans-serif;
+    font-size: 43px;
+    font-weight: bold;
 }
 
 h3{
@@ -64,6 +104,18 @@ h4{
     font-weight: 600;
 }
 
+img {
+  pointer-events: none;
+}
+
+.bottom-100 {
+  margin-bottom: 100px;
+}
+
+.bottom-50 {
+  margin-bottom: 50px;
+}
+
 hr {
     color: rgba(252, 178, 18, 1);
     height: 4px !important;
@@ -72,6 +124,15 @@ hr {
     border-radius: 10px;
     margin-left: 0;
     margin-right: auto;
+}
+
+.hr-custom {
+    height: 12px !important;
+    width: 300px !important;
+    border-radius: 0px;
+    margin-bottom: 32px;
+    margin-left: auto;
+    margin-right: 0;
 }
 
 .bawah{
