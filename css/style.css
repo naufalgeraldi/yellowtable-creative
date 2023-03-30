@@ -273,3 +273,72 @@ hr {
     --button-text-color-hover: black;
     --button-bits-color-hover: black;
   }
+
+.accordion{
+max-width: 8000px;
+
+
+}
+
+.accordion .contentBx{
+  position: relative;
+  margin: 10 px 20px;
+  
+}
+
+.accordion .contentBx .label{
+  position: relative;
+  padding: 10px;
+  background: #fcb212;
+  color: #555;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: x-large;
+  margin: 2px;
+}
+
+.accordion .contentBx .label::before{
+  content: '+';
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-20%);
+  font-size: 1.5em;
+}
+.accordion .contentBx.active .label::before{
+ content: '-';
+}
+
+.accordion .contentBx .content{
+  position: relative;
+  background: #fcb212;
+  height: 0;
+  overflow: hidden;
+  transition: 0.2s;
+  overflow-y: auto;
+}
+
+.accordion .contentBx.active .content{
+  height: 100%;
+  padding: 20px;
+  
+}
+
+body{
+  animation: transitionin 0.5s;
+}
+
+@keyframes transitionin {
+
+  from{
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+}
