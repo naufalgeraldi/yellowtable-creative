@@ -94,14 +94,15 @@ h2{
 }
 
 h3{
-    font-family: 'Helvetica','Arial', sans-serif;
-    font-weight: 600;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 30px;
+    color: rgb(116, 116, 116);
 }
 
 h4{
-    font-family: 'Helvetica','Arial', sans-serif;
-    font-size: 25px;
-    font-weight: 600;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
 }
 
 img {

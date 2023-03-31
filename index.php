@@ -12,7 +12,7 @@
             </h1>
 
             <p class="loose-line-height">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pellentesque ipsum at mi luctus venenatis. Curabitur molestie magna sed turpis rutrum, in pharetra ipsum vehicula. Duis ultrices dolor lectus, id varius massa mattis ut. Nunc mauris lectus, aliquam in convallis at, semper nec nulla. Integer ante felis, pellentesque id aliquam vitae, eleifend id ex.
+            <h3>Bring the brand to its glory! ✨</h3>
             </p>
 
             <a href="#">
@@ -46,19 +46,21 @@
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-1.svg');">
             <h2 style="margin-top: -30px;">Social<br>Media<br>Management</h2>
             <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pellentesque ipsum at mi luctus venenatis.
+            <h4>Membantu bisnis Anda meningkatkan kehadiran online dengan mengelola akun social media, membuat konten yang menarik, dan menganalisis kinerja campaign social media.</h4>
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-2.svg'); background-size: 85%;">
             <h2 style="margin-top: -30px;">Photography<br>Videography</h2>
             <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pellentesque ipsum at mi luctus venenatis.
+            <h4>Kami menyediakan layanan yang dapat disesuaikan dengan kebutuhan bisnis Anda, termasuk produksi video iklan, foto produk, fotografi branding, dan lainnya. Guna 
+            memahami dan membantu Anda mengembangkan konten visual yang konsisten sesuai dengan pesan brand Anda.</h4>
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-3.svg');">
             <h2 style="margin-top: -30px;">Visual<br>Design</h2>
             <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pellentesque ipsum at mi luctus venenatis.
+            <h4> Membantu Anda dengan kebutuhan desain visual yang beragam, mulai dari logo, kartu nama, brosur, hingga konten pada social media. 
+            Kami berkomitmen untuk memahami merek Anda dan menciptakan desain yang konsisten dengan pesan dan nilai brand Anda.</h4>
             </p>
         </div>
     </div>
