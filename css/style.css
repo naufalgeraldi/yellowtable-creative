@@ -290,7 +290,7 @@ max-width: 8000px;
   position: relative;
   padding: 10px;
   background: #fcb212;
-  color: #555;
+  color: black;
   cursor: pointer;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
@@ -299,15 +299,20 @@ max-width: 8000px;
 }
 
 .accordion .contentBx .label::before{
-  content: '+';
+  content: '∨';
   position: absolute;
-  top: 50%;
+  top: 10%;
   right: 20px;
   transform: translateY(-20%);
-  font-size: 1.5em;
+  transform: scaleX(200%);
+  font-size: 1em;
+
+
 }
 .accordion .contentBx.active .label::before{
- content: '-';
+ content: '_';
+ position: absolute;
+ top:-20%;
 }
 
 .accordion .contentBx .content{
@@ -342,3 +347,4 @@ body{
   }
   
 }
+
