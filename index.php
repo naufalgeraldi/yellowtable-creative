@@ -1,7 +1,7 @@
 <?php require 'template/header.php'; ?>
 
 
-<div class="container">
+<div class="z-1 container">
 
     <!-- HERO -->
 
@@ -191,9 +191,9 @@
             <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi.">
                 <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn">
                     <span style="display:inline-flex; top: 10px;">
-                        <img src="img/reisen_logo.png" alt="wa" style="height:30px; margin-right:10px;">
+                        <img src="svg/ic_whatsapp.svg" alt="wa" style="height:30px; margin-right:10px;">
                         <span>
-                            <h3 style=" margin-bottom: 0; margin-top: 1px;">Send Whatsapp</h3>
+                            <h3 style=" margin-bottom: 0; margin-top: 2px;">Send Whatsapp</h3>
                         </span>
                     </span>
                 </button>
@@ -204,16 +204,28 @@
             <a href="#">
                 <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn contact-ouline-btn">
                     <span style="display:inline-flex; top: 10px;">
-                        <img src="img/reisen_logo.png" alt="wa" style="height:30px; margin-right:10px;">
+                        <img src="svg/ic_email.svg" alt="wa" style="height:30px; margin-right:10px;">
                         <span>
-                            <h3 style=" margin-bottom: 0; margin-top: 1px;">Send Email</h3>
+                            <h3 style=" margin-bottom: 0; margin-top: 2px;">Send Email</h3>
                         </span>
                     </span>
                 </button>
             </a>
         </div>
+
+        <img src="svg/landing_bg_4.svg" alt="bg4" class="landing-bg-4">
     </div>
+
+
 </div>
 
+<div class="card-img-overlay" style="z-index: -1 !important;">
+    <div style="display: grid;">
+        <img src="svg/landing_bg_1.svg" alt="bg1" class="landing-bg-img">
+        <img src="svg/landing_bg_2.svg" alt="bg1" class="landing-bg-img right-side">
+        <img src="svg/landing_bg_3.svg" alt="bg1" class="landing-bg-img">
+    </div>
+
+</div>
 
 <?php require 'template/footer.php'; ?>

@@ -405,3 +405,19 @@ body{
 .contact-ouline-btn:hover {
   border-color: white !important;
 }
+
+.landing-bg-img {
+  margin-top: 256px;
+}
+
+.right-side {
+  margin-left: auto;
+}
+
+.landing-bg-4 {
+  position: absolute;
+  width: 350px;
+  right: 0;
+  margin-right: 40px;
+  margin-bottom: -150px;
+}
