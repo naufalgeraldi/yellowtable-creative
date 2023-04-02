@@ -34,7 +34,14 @@
                 </span>
             </button>
         </a>
-        
+
+
+    </div>
+
+    <div class="card-img-overlay" style="z-index: -1 !important;">
+        <div style="display: grid;">
+            <img src="svg/landing_bg_2.svg" alt="bg1" class="landing-bg-img-about right-side">
+        </div>
     </div>
 
     <?php require 'template/footer.php'; ?>
