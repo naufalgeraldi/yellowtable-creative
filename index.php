@@ -46,7 +46,7 @@
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-1.svg');">
             <h2 style="margin-top: -30px;">Social<br>Media<br>Management</h2>
             <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-            <h4>Membantu bisnis Anda meningkatkan kehadiran online dengan mengelola akun social media, membuat konten yang menarik, dan menganalisis kinerja campaign social media.</h4>
+            <h4>Memecahkan masalah komunikasi content dari brand ke audiens, membentuk konten pilar yang relevan dengan demografi audiens, membangun emotional value brand melalui konten dan menganalisis kinerja campaign sosial media yang berjalan.</h4>
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-2.svg'); background-size: 85%;">
@@ -128,7 +128,9 @@
         </div>
     </div>
 
-    <div class="bottom-100">
+            <iframe src="https://drive.google.com/file/d/1YQIumxEjTPDXFX4VZnYJw6iQUXL2VefQ/preview" width="1280" height="720" allow="autoplay"></iframe>
+    
+            <div class="bottom-100">
         <a href="#">
             <button class="btn" style="margin-left: -10px;">
                 <span class="btn__inner">
@@ -201,7 +203,7 @@
         </div>
         <div class="col">
             <!-- BIAR KIRIM EMAIL: <a href="mailto:EMAILADDRESS"></a> -->
-            <a href="#">
+            <a href="mailto:yellowtable.creatv@gmail.com">
                 <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn contact-ouline-btn">
                     <span style="display:inline-flex; top: 10px;">
                         <img src="svg/ic_email.svg" alt="wa" style="height:30px; margin-right:10px;">
