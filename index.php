@@ -160,8 +160,8 @@
             <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
         </div>
         <div class="col align-self-center" style="text-align: center;">
-            <img src="img/client/atanapi_logo.png" class="logo-thumbnail bottom-25" alt="Atanapi">
-            <h3 class="ylw-bg-txt mx-auto">Atanapi Coffee Camp</h3>
+            <img src="img/client/atanapi_logo.png" class="logo-thumbnail bottom-25" alt="Atanapi" style="width: 200px; height: 200px; margin-top: -30px;">
+            <h3 class="ylw-bg-txt mx-auto" style="margin-top: -40px;">Atanapi Coffee Camp</h3>
         </div>
         <div class="col align-self-center" style="text-align: center;">
             <img src="img//client/euck_logo.png" class="logo-thumbnail bottom-25" alt="Euck">
