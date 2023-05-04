@@ -12,7 +12,7 @@
             </h1>
 
             <p class="loose-line-height">
-            <h3-1>From content creation to social media management, we can help your brand communicate its essence.</h3-1>
+                <h3-1>From content creation to social media management, we can help your brand communicate its essence.</h3-1>
             </p>
 
             <a href="about.php" class="btn-about">
@@ -61,7 +61,7 @@
 
     <!-- OUR WORKS -->
 
-    <div class="row bottom-100">
+    <div class="row bottom-50">
         <div class="col">
             <h1>Our <span class="ylw-txt">Works.</span></h1>
         </div>
@@ -70,28 +70,24 @@
         </div>
     </div>
 
+    <div class="mx-auto" style="width: 300px; text-align: center;">
+        <h2>Social Media</h2>
+        <h2><span class="ylw-txt">Content</h2>
+    </div>
     <div class="row row-cols-1 row-cols-md-3 g-4 bottom-50">
         <div class="col">
             <div class="card h-100">
-                <img src="img/3.png" class="card-img-top img-preview" alt="...">
+                <img src="img/Batch1_07.png" class="card-img-top img-preview" alt="...">
                 <div class="card-img-overlay no-padding">
                     <img src="svg/client_logo_bg.svg">
-                </div>
-                <div class="card-body no-h-padding">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card h-100">
-                <img src="img/5.png" class="card-img-top" alt="...">
+                <img src="img/26.png" class="card-img-top" alt="...">
                 <div class="card-img-overlay no-padding">
                     <img src="svg/client_logo_bg.svg">
-                </div>
-                <div class="card-body no-h-padding">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a short card.</p>
                 </div>
             </div>
         </div>
@@ -101,20 +97,18 @@
                 <div class="card-img-overlay no-padding">
                     <img src="svg/client_logo_bg.svg">
                 </div>
-                <div class="card-body no-h-padding">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-                </div>
             </div>
         </div>
     </div>
-
-    <iframe src="https://drive.google.com/file/d/1YQIumxEjTPDXFX4VZnYJw6iQUXL2VefQ/preview" width="1280" height="720" allow="autoplay"></iframe>
+    <div class="mx-auto" style="width: 300px">
+        <h2>Short <span class="ylw-txt">Video</h2>
+    </div>
+    <iframe src="https://drive.google.com/file/d/1fJMjP7NQ9B-iDYJq9mO4ilI6_v4MkcpQ/preview" width="1280" height="720" allow="autoplay"></iframe>
 
     <div class="bottom-100">
-    <a href="portofolio.php" class="btn-about">
-                See More
-            </a>
+        <a href="portofolio.php" class="btn-about">
+            See More
+        </a>
     </div>
 
     <!-- OUR CLIENTS -->
