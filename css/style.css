@@ -308,6 +308,7 @@ max-width: 8000px;
 .accordion .contentBx{
   position: relative;
   margin: 10 px 20px;
+  border-radius: 8px;
   
 }
 
@@ -321,23 +322,24 @@ max-width: 8000px;
   font-weight: 600;
   font-size: x-large;
   margin: 2px;
+  border-radius: 8px;
+  
 }
 
 .accordion .contentBx .label::before{
-  content: '∨';
+  content: '\f078';
   position: absolute;
   top: 10%;
   right: 20px;
-  transform: translateY(-20%);
-  transform: scaleX(200%);
+font-family: fontawesome;
   font-size: 1em;
 
 
 }
 .accordion .contentBx.active .label::before{
- content: '_';
+ content: '\2015';
  position: absolute;
- top:-20%;
+ transform: scaleY(200%);
 }
 
 .accordion .contentBx .content{
@@ -347,12 +349,13 @@ max-width: 8000px;
   overflow: hidden;
   transition: 0.2s;
   overflow-y: auto;
+  border-radius: 8px;
 }
 
 .accordion .contentBx.active .content{
   height: 100%;
   padding: 20px;
-  
+  border-radius: 8px;
 }
 
 body{
