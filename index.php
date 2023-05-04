@@ -128,9 +128,9 @@
         </div>
     </div>
 
-            <iframe src="https://drive.google.com/file/d/1YQIumxEjTPDXFX4VZnYJw6iQUXL2VefQ/preview" width="1280" height="720" allow="autoplay"></iframe>
-    
-            <div class="bottom-100">
+    <iframe src="https://drive.google.com/file/d/1YQIumxEjTPDXFX4VZnYJw6iQUXL2VefQ/preview" width="1280" height="720" allow="autoplay"></iframe>
+
+    <div class="bottom-100">
         <a href="#">
             <button class="btn" style="margin-left: -10px;">
                 <span class="btn__inner">
@@ -156,30 +156,24 @@
 
     <div class="row bottom-100">
         <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
+            <img src="img/client/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
             <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
         </div>
         <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
-            <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
+            <img src="img/client/atanapi_logo.png" class="logo-thumbnail bottom-25" alt="Atanapi">
+            <h3 class="ylw-bg-txt mx-auto">Atanapi Coffee Camp</h3>
         </div>
         <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
-            <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
+            <img src="img//client/euck_logo.png" class="logo-thumbnail bottom-25" alt="Euck">
+            <h3 class="ylw-bg-txt mx-auto">Euck</h3>
         </div>
         <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
-            <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
+            <img src="img/client/tusk_logo.png" class="logo-thumbnail bottom-25" alt="Tusk">
+            <h3 class="ylw-bg-txt mx-auto">Tusk Bag</h3>
         </div>
-        <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
-            <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
-        </div>
-        <div class="col align-self-center" style="text-align: center;">
-            <img src="img/reisen_logo.png" class="logo-thumbnail bottom-25" alt="Reisen">
-            <h3 class="ylw-bg-txt mx-auto">Reisen Gear</h3>
-        </div>
+
     </div>
+</div>
 
 
 </div>
