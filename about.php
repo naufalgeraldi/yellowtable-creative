@@ -26,14 +26,9 @@
 
 <div>
     <div>
-        <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi." style="margin-left: 560px;">
-            <button class="btn">
-                <span class="btn__inner">
-                    <span class="btn__slide"></span>
-                    <span class="btn__content">Get in Touch</span>
-                </span>
-            </button>
-        </a>
+       <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi." class="btn-about">
+                Discover More
+            </a>
 
 
     </div>

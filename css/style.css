@@ -107,11 +107,16 @@ h2{
 }
 
 h3{
-    font-family: 'HelveticaBold', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 22px;
-    /* color: rgb(116, 116, 116); */
     color: black;
     font-weight: bold;
+}
+
+h3-1{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 22px;
+  color: rgb(116, 116, 116);
 }
 
 h4{
@@ -431,4 +436,27 @@ body{
  .btn {
   margin-left: 10000px;
  }
+}
+
+.btn-about{
+  color: white;
+  background-color: #fcb212;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: 'HelveticaBold', sans-serif;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 5px 10px 29px -8px rgba(0,0,0,0.20);
+  border-radius: 8px;
+  -webkit-box-shadow: 5px 10px 29px -8px rgba(0,0,0,0.20);
+  -moz-box-shadow: 5px 10px 29px -8px rgba(0,0,0,0.20);
+}
+
+.btn-about:hover{
+  color: white;
+  background-color: #da990e;
 }

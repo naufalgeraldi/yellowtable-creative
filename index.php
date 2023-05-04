@@ -12,22 +12,16 @@
             </h1>
 
             <p class="loose-line-height">
-            <h3>Bring the brand to its glory! ✨</h3>
+            <h3-1>From content creation to social media management, we can help your brand communicate its essence.</h3-1>
             </p>
 
-            <a href="#">
-                <button class="btn" style="margin-left: -10px;">
-                    <span class="btn__inner">
-                        <span class="btn__slide"></span>
-                        <span class="btn__content">
-                            <span class="btn-txt">Discover More</span>
-                        </span>
-                    </span>
-                </button>
+            <a href="about.php" class="btn-about">
+                Discover More
             </a>
+
         </div>
         <div class="col ps-3" style="max-width: 900px;">
-            <img id="pic" src="svg/hero-dummy.svg" style="height: 100%; width: auto;" ondrag="return false">
+            <img id="pic" src="svg/Digital.svg" style="height: 100%; width: auto;" ondrag="return false">
         </div>
     </div>
 
@@ -63,19 +57,6 @@
                 Kami berkomitmen untuk memahami merek Anda dan menciptakan desain yang konsisten dengan pesan dan nilai brand Anda.</h4>
             </p>
         </div>
-    </div>
-
-    <div class="bottom-100">
-        <a href="#">
-            <button class="btn" style="margin-left: -10px;">
-                <span class="btn__inner">
-                    <span class="btn__slide"></span>
-                    <span class="btn__content">
-                        <span class="btn-txt">Discover More</span>
-                    </span>
-                </span>
-            </button>
-        </a>
     </div>
 
     <!-- OUR WORKS -->
@@ -131,16 +112,9 @@
     <iframe src="https://drive.google.com/file/d/1YQIumxEjTPDXFX4VZnYJw6iQUXL2VefQ/preview" width="1280" height="720" allow="autoplay"></iframe>
 
     <div class="bottom-100">
-        <a href="#">
-            <button class="btn" style="margin-left: -10px;">
-                <span class="btn__inner">
-                    <span class="btn__slide"></span>
-                    <span class="btn__content">
-                        <span class="btn-txt">Discover More</span>
-                    </span>
-                </span>
-            </button>
-        </a>
+    <a href="portofolio.php" class="btn-about">
+                See More
+            </a>
     </div>
 
     <!-- OUR CLIENTS -->
