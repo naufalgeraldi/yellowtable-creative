@@ -101,7 +101,7 @@
         </div>
     </div>
     <div class="mx-auto" style="width: 300px">
-        <h2>Short <span class="ylw-txt">Video</h2>
+        <h2>Narrative <span class="ylw-txt">Video</h2>
     </div>
     <iframe src="https://drive.google.com/file/d/1Rc-nHRI8zbEojY7nloUk4x3lvzn-0ST0/preview" width="1280" height="720" allow="autoplay"></iframe>
 
