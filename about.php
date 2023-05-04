@@ -27,7 +27,7 @@
 <div>
     <div>
        <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi." class="btn-about">
-                Discover More
+                Contact Us
             </a>
 
 
