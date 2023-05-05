@@ -36,7 +36,7 @@
         </div>
     </div>
 
-    <div class="row mx-auto bottom-50">
+    <div class="row mx-auto bottom-50 our-svc-container">
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-1.svg');">
             <h2 style="margin-top: -30px;">Social<br>Media<br>Management</h2>
             <p class="bottom-50 svc-txt">
