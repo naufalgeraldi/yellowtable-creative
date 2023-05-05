@@ -566,10 +566,19 @@ body{
 
 @media screen and (max-width: 768px) {
   .landing-bg-img {
-    width: 512px;
+    width: 80vw;
   }
 
   .right-side {
-    width: auto;
+    width: 30vw;
+    right: 0;
+    position: fixed;
+    margin-top: 760px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 14vw;
   }
 }
