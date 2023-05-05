@@ -113,7 +113,7 @@ h3{
     font-weight: bold;
 }
 
-h3-1{
+.h3-1 {
   font-family: 'Helvetica', sans-serif;
   font-size: 22px;
   color: rgb(116, 116, 116);
@@ -470,12 +470,18 @@ body{
 
 .works-vid {
   width: inherit;
+  height: 50vw;
 }
 
 .svc-txt {
   margin-left: 40px;
   text-align: left;
   font-size: 18px
+}
+
+.contact-btn-container {
+  padding: 0 30vw;
+  --bs-gutter-x: 0;
 }
 
 /* 
@@ -562,6 +568,10 @@ body{
     margin-top: 170px;
     max-width: 200px;
   }
+
+  .h3-1 {
+    width: 90vw;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -574,6 +584,14 @@ body{
     right: 0;
     position: fixed;
     margin-top: 760px;
+  }
+
+  .contact-btn-container {
+    padding: initial;
+  }
+
+  h3 {
+    font-size: 16px;
   }
 }
 

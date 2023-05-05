@@ -11,8 +11,8 @@
                 <span class="ylw-txt">YellowTable</span> Creative<span class="ylw-txt">.</span>
             </h1>
 
-            <p class="loose-line-height">
-                <h3-1>From content creation to social media management, we can help your brand communicate its essence.</h3-1>
+            <p class="loose-line-height h3-1">
+                From content creation to social media management, we can help your brand communicate its essence.
             </p>
 
             <a href="about.php" class="btn-about">
@@ -150,7 +150,7 @@
     <h1 class="tight-line-height mb-5 bottom-50">
         Interested?<br><span class="white-txt">Contact us</span> right away!
     </h1>
-    <div class="row" style="padding: 0 30vw; --bs-gutter-x: 0;">
+    <div class="row contact-btn-container">
         <div class="col">
             <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi.">
                 <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn wtapp-btn">
