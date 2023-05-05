@@ -463,3 +463,98 @@ body{
   color: white;
   background-color: #da990e;
 }
+
+.wtapp-btn {
+  margin-bottom: 0px;
+}
+
+.works-vid {
+  width: inherit;
+}
+
+.svc-txt {
+  margin-left: 40px;
+  text-align: left;
+  font-size: 18px
+}
+
+/* 
+    Responsive sheets
+    >1400px Desktop 
+    < 1400px Large Tablet/Desktop 
+    < 1200px Tablet 
+    < 992px Mini Tablet 
+    < 768px Wide Phone 
+    < 576px Phone
+*/
+
+@media screen and (max-width: 1465.56px) {
+  .wtapp-btn {
+      margin-bottom: 20px;
+    }
+  
+    .landing-bg-4 {
+      margin-bottom: 0px;
+      margin-top: 130px;
+      max-width: 260px;
+    }
+}
+
+@media screen and (max-width: 1439px)  {
+  h1 {
+      font-size: 84px;
+    }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  .svc-txt {
+    max-width: 280px;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  h1 {
+    font-size: 70px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 21px;
+  }
+
+  .svc-txt {
+    margin-top: 8px;
+    margin-left: 25px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .container, .container-md, .container-sm {
+    max-width: 800px;
+  }
+
+  h1 {
+    font-size: 70px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  .logo {
+    width: auto !important;
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .hero-img {
+    display: contents;
+  }
+}

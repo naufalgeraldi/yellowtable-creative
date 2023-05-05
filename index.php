@@ -20,7 +20,7 @@
             </a>
 
         </div>
-        <div class="col ps-3" style="max-width: 900px;">
+        <div class="col ps-3 hero-img" style="max-width: 900px;">
             <img id="pic" src="svg/Digital.svg" style="height: 100%; width: auto;" ondrag="return false">
         </div>
     </div>
@@ -39,22 +39,22 @@
     <div class="row mx-auto bottom-50">
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-1.svg');">
             <h2 style="margin-top: -30px;">Social<br>Media<br>Management</h2>
-            <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-            <h4>Memecahkan masalah komunikasi content dari brand ke audiens, membentuk konten pilar yang relevan dengan demografi audiens, membangun emotional value brand melalui konten dan menganalisis kinerja campaign sosial media yang berjalan.</h4>
+            <p class="bottom-50 svc-txt">
+                Membantu bisnis Anda meningkatkan kehadiran online dengan mengelola akun social media, membuat konten yang menarik, dan menganalisis kinerja campaign social media.
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-2.svg'); background-size: 85%;">
             <h2 style="margin-top: -30px;">Photography<br>Videography</h2>
-            <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-            <h4>Kami menyediakan layanan yang dapat disesuaikan dengan kebutuhan bisnis Anda, termasuk produksi video iklan, foto produk, fotografi branding, dan lainnya. Guna
-                memahami dan membantu Anda mengembangkan konten visual yang konsisten sesuai dengan pesan brand Anda.</h4>
+            <p class="bottom-50 svc-txt">
+                Kami menyediakan layanan yang dapat disesuaikan dengan kebutuhan bisnis Anda, termasuk produksi video iklan, foto produk, fotografi branding, dan lainnya. Guna
+                memahami dan membantu Anda mengembangkan konten visual yang konsisten sesuai dengan pesan brand Anda.
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-3.svg');">
             <h2 style="margin-top: -30px;">Visual<br>Design</h2>
-            <p class="bottom-50" style="max-width: 260px; margin-left: 40px;">
-            <h4> Membantu Anda dengan kebutuhan desain visual yang beragam, mulai dari logo, kartu nama, brosur, hingga konten pada social media.
-                Kami berkomitmen untuk memahami merek Anda dan menciptakan desain yang konsisten dengan pesan dan nilai brand Anda.</h4>
+            <p class="bottom-50 svc-txt">
+                Membantu Anda dengan kebutuhan desain visual yang beragam, mulai dari logo, kartu nama, brosur, hingga konten pada social media.
+                Kami berkomitmen untuk memahami merek Anda dan menciptakan desain yang konsisten dengan pesan dan nilai brand Anda.
             </p>
         </div>
     </div>
@@ -103,7 +103,7 @@
     <div class="mx-auto" style="width: 300px; text-align: center;">
         <h2>Narrative <span class="ylw-txt">Video</h2>
     </div>
-    <iframe src="https://drive.google.com/file/d/1Rc-nHRI8zbEojY7nloUk4x3lvzn-0ST0/preview" width="1280" height="720" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1Rc-nHRI8zbEojY7nloUk4x3lvzn-0ST0/preview" height="720" allow="autoplay" class="works-vid"></iframe>
 
     <div class="bottom-100">
         <a href="portofolio.php" class="btn-about">
@@ -153,7 +153,7 @@
     <div class="row" style="padding: 0 30vw; --bs-gutter-x: 0;">
         <div class="col">
             <a href="https://wa.me/62882000016684?text=Halo,%20Saya%20ingin%20konsultasi.">
-                <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn">
+                <button style="border: 0; padding: 20px 40px 12px 40px; width: 290px;" class="contact-btn wtapp-btn">
                     <span style="display:inline-flex; top: 10px;">
                         <img src="svg/ic_whatsapp.svg" alt="wa" style="height:30px; margin-right:10px;">
                         <span>
