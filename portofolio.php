@@ -17,8 +17,10 @@
 
     <div class="accordion">
         <div class="contentBx">
-            <div class="label"> Social Media Management </div>
-            
+            <div class="label">
+                <h3> Social Media Management</h3>
+            </div>
+
             <div class="content">
                 <img src="img/porto/03.jpg" width="100%">
                 <img src="img/porto/04.jpg" width="100%">
@@ -29,7 +31,9 @@
             </div>
         </div>
         <div class="contentBx">
-            <div class="label"> Photography </div>
+            <div class="label">
+                <h3> Photography</h3>
+            </div>
             <div class="content">
                 <img src="img/porto/08.jpg" width="100%">
                 <img src="img/porto/09.jpg" width="100%">
@@ -46,17 +50,21 @@
             </div>
         </div>
         <div class="contentBx">
-            <div class="label"> Videography </div>
+            <div class="label">
+                <h3> Videography </h3>
+            </div>
             <div class="content">
-       
-            <iframe src="https://drive.google.com/file/d/1ASB81Ybg6CSCRDFc9UC-PEnimWCkFNId/preview" width="1200" height="680" allow="autoplay"></iframe>
-            <iframe src="https://drive.google.com/file/d/1naypVH-9Y8nI-xjtQSRIHTpUzs_3ya3O/preview" width="1200" height="680" allow="autoplay"></iframe>
-            <iframe src="https://drive.google.com/file/d/1epErI91MoyXqLXa-YAGULx4KlGRIyM8R/preview" width="1200" height="680" allow="autoplay"></iframe>
 
-</div>
+                <iframe src="https://drive.google.com/file/d/1ASB81Ybg6CSCRDFc9UC-PEnimWCkFNId/preview" width="1200" height="680" allow="autoplay"></iframe>
+                <iframe src="https://drive.google.com/file/d/1naypVH-9Y8nI-xjtQSRIHTpUzs_3ya3O/preview" width="1200" height="680" allow="autoplay"></iframe>
+                <iframe src="https://drive.google.com/file/d/1epErI91MoyXqLXa-YAGULx4KlGRIyM8R/preview" width="1200" height="680" allow="autoplay"></iframe>
+
+            </div>
         </div>
         <div class="contentBx">
-            <div class="label"> Logo Design </div>
+            <div class="label">
+                <h3> Logo Design </h3>
+            </div>
             <div class="content">
                 <img src="img/porto/19.jpg" width="100%">
                 <img src="img/porto/20.jpg" width="100%">
@@ -71,7 +79,9 @@
             <hr style="margin: auto;">
         </div>
         <div class="contentBx">
-            <div class="label"> Other Project </div>
+            <div class="label">
+                <h3> Other Project </h3>
+            </div>
             <div class="content">
                 <img src="img/porto/23.jpg" width="100%">
                 <img src="img/porto/24.jpg" width="100%">
