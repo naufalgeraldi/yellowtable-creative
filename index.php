@@ -21,7 +21,7 @@
 
         </div>
         <div class="col ps-3 hero-img" style="max-width: 900px;">
-            <img id="pic" src="svg/Digital.svg" style="height: 100%; width: auto;" ondrag="return false">
+            <img id="pic" src="svg/Digital.svg" style="width: inherit;" ondrag="return false">
         </div>
     </div>
 
