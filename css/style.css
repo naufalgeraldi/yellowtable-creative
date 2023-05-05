@@ -557,4 +557,19 @@ body{
   .hero-img {
     display: contents;
   }
+
+  .landing-bg-4 {
+    margin-top: 170px;
+    max-width: 200px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .landing-bg-img {
+    width: 512px;
+  }
+
+  .right-side {
+    width: auto;
+  }
 }
