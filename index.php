@@ -40,7 +40,7 @@
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-1.svg');">
             <h2 style="margin-top: -30px;">Social<br>Media<br>Management</h2>
             <p class="bottom-50 svc-txt">
-                Membantu bisnis Anda meningkatkan kehadiran online dengan mengelola akun social media, membuat konten yang menarik, dan menganalisis kinerja campaign social media.
+            Memecahkan masalah komunikasi content dari brand ke audiens, membentuk konten pilar yang relevan dengan demografi audiens, membangun emotional velue brand melalui konten dan menganalisis kinerja campaign sosial media yang berjalan.
             </p>
         </div>
         <div class="col ps-3 service-bg" style="background-image: url('svg/service-2.svg'); background-size: 85%;">
@@ -79,7 +79,7 @@
             <div class="card h-100">
                 <img src="img/Batch1_07.png" class="card-img-top img-preview" alt="...">
                 <div class="card-img-overlay no-padding">
-                    <img src="svg/client_logo_bg.svg">
+                   
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@
             <div class="card h-100">
                 <img src="img/26.png" class="card-img-top" alt="...">
                 <div class="card-img-overlay no-padding">
-                    <img src="svg/client_logo_bg.svg">
+                 
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@
             <div class="card h-100">
                 <img src="img/20.png" class="card-img-top" alt="...">
                 <div class="card-img-overlay no-padding">
-                    <img src="svg/client_logo_bg.svg">
+              
                 </div>
             </div>
         </div>

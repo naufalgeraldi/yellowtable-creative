@@ -333,13 +333,14 @@ max-width: 8000px;
   right: 20px;
 font-family: fontawesome;
   font-size: 1em;
-
+color: white;
 
 }
 .accordion .contentBx.active .label::before{
  content: '\2015';
  position: absolute;
  transform: scaleY(200%);
+color: white;
 }
 
 .accordion .contentBx .content{
@@ -473,6 +474,11 @@ body{
   height: 50vw;
 }
 
+.works-vid-porto{
+  width: inherit;
+  height: 50vw;
+}
+
 .svc-txt {
   margin-left: 40px;
   text-align: left;
@@ -493,6 +499,22 @@ body{
     < 768px Wide Phone 
     < 576px Phone
 */
+@media screen and (max-width: 2560px) {
+
+
+    .works-vid-porto{
+      width: 50vw;
+      height: 30vw;
+    }
+}
+@media screen and (max-width: 1920px) {
+
+
+  .works-vid-porto{
+    width: 50vw;
+    height: 30vw;
+  }
+}
 
 @media screen and (max-width: 1465.56px) {
   .wtapp-btn {
@@ -503,6 +525,11 @@ body{
       margin-bottom: 0px;
       margin-top: 130px;
       max-width: 260px;
+    }
+
+    .works-vid-porto{
+      width: 70vw;
+      height: 50vw;
     }
 }
 
@@ -518,6 +545,10 @@ body{
   .svc-txt {
     max-width: 280px;
     margin-top: 10px;
+  }
+  .works-vid-porto{
+    width: 50vw;
+    height: 30vw;
   }
 }
 
@@ -538,6 +569,8 @@ body{
     margin-top: 8px;
     margin-left: 25px;
   }
+
+  
 }
 
 @media screen and (max-width: 992px) {
@@ -557,6 +590,7 @@ body{
     width: auto !important;
     margin-top: 20px;
   }
+
 }
 
 @media screen and (max-width: 800px) {
@@ -572,6 +606,9 @@ body{
   .h3-1 {
     width: 90vw;
   }
+
+  
+
 }
 
 @media screen and (max-width: 768px) {
@@ -593,6 +630,10 @@ body{
   h3 {
     font-size: 16px;
   }
+  .works-vid-porto{
+    width: 70vw;
+    height: 50vw;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -602,5 +643,10 @@ body{
 
   .our-svc-container {
     display: block !important;
+  }
+
+  .works-vid-porto{
+    width: inherit;
+    height: 50vw;
   }
 }

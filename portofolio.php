@@ -18,7 +18,7 @@
     <div class="accordion">
         <div class="contentBx">
             <div class="label">
-                <h3> Social Media Management</h3>
+                <h3 style="color: white;"> Social Media Management</h3>
             </div>
 
             <div class="content">
@@ -32,7 +32,7 @@
         </div>
         <div class="contentBx">
             <div class="label">
-                <h3> Photography</h3>
+                <h3 style="color: white;"> Photography</h3>
             </div>
             <div class="content">
                 <img src="img/porto/08.jpg" width="100%">
@@ -51,19 +51,19 @@
         </div>
         <div class="contentBx">
             <div class="label">
-                <h3> Videography </h3>
+                <h3 style="color: white;"> Videography </h3>
             </div>
             <div class="content">
 
-                <iframe src="https://drive.google.com/file/d/1ASB81Ybg6CSCRDFc9UC-PEnimWCkFNId/preview" width="1200" height="680" allow="autoplay"></iframe>
-                <iframe src="https://drive.google.com/file/d/1naypVH-9Y8nI-xjtQSRIHTpUzs_3ya3O/preview" width="1200" height="680" allow="autoplay"></iframe>
-                <iframe src="https://drive.google.com/file/d/1epErI91MoyXqLXa-YAGULx4KlGRIyM8R/preview" width="1200" height="680" allow="autoplay"></iframe>
+                <iframe src="https://drive.google.com/file/d/1ASB81Ybg6CSCRDFc9UC-PEnimWCkFNId/preview" height="720" allow="autoplay" class="works-vid-porto"></iframe>
+                <iframe src="https://drive.google.com/file/d/1naypVH-9Y8nI-xjtQSRIHTpUzs_3ya3O/preview" height="720" allow="autoplay" class="works-vid-porto"></iframe>
+                <iframe src="https://drive.google.com/file/d/1epErI91MoyXqLXa-YAGULx4KlGRIyM8R/preview" height="720" allow="autoplay" class="works-vid-porto"></iframe>
 
             </div>
         </div>
         <div class="contentBx">
             <div class="label">
-                <h3> Logo Design </h3>
+                <h3 style="color: white;"> Logo Design </h3>
             </div>
             <div class="content">
                 <img src="img/porto/19.jpg" width="100%">
@@ -80,7 +80,7 @@
         </div>
         <div class="contentBx">
             <div class="label">
-                <h3> Other Project </h3>
+                <h3 style="color: white;"> Other Project </h3>
             </div>
             <div class="content">
                 <img src="img/porto/23.jpg" width="100%">
